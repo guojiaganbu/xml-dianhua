@@ -2,7 +2,7 @@
 
 <Response>
 <Say voice="alice" language="en-CA">
-this is Anna Fong. Please leave your name, number and a brief message and i will return your call as soon as possible. Thank you.
+this is Anna Fong. Please leave a message and i will return your call as soon as possible. Thank you.
 </Say>
 <Record finishOnKey="*" maxLength="60" method="GET" action="http://zeddcall.appspot.com/MailPeter"/>
 
