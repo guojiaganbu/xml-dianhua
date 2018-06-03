@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <Response>
 <Say>
-Friday, April twenty seventh. I am in the office today. you have reached the voice mail box of peter Liu. Please leave your name, number and a brief message and i will return your call as soon as possible. Thank you.
+Anna Fong. Please leave your name, number and a brief message and i will return your call as soon as possible. Thank you.
 </Say>
 <Record finishOnKey="*" maxLength="40" method="GET" action="http://zeddcall.appspot.com/MailPeter"/>
 <Say>I did not receive a recording</Say>
