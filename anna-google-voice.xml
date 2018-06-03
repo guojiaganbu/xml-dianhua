@@ -3,9 +3,9 @@
 <Response>
 
 
-  <play>
+  <Play>
     https://guojiaganbu.github.io/xml-dianhua/anna.mp3
-  </play>
+  </Play>
 
 <Record finishOnKey="*" maxLength="60" method="GET" action="http://zeddcall.appspot.com/MailPeter"/>
 
