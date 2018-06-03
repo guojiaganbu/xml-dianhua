@@ -2,11 +2,10 @@
 
 <Response>
 
-<play>
 
-https://translate.google.ca/translate_tts?ie=UTF-8&q=this%20is%20Anna%20Fong.%20Please%20leave%20a%20message%20and%20i%20will%20return%20your%20call%20as%20soon%20as%20possible.%20Thank%20you.&tl=en&total=1&idx=0&textlen=101&tk=54401.437903&client=t&prev=input
-
-</play>
+  <play>
+    https://guojiaganbu.github.io/xml-dianhua/anna.mp3
+  </play>
 
 <Record finishOnKey="*" maxLength="60" method="GET" action="http://zeddcall.appspot.com/MailPeter"/>
 
