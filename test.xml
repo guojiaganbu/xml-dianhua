@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Response>
-<Say>
-Anna Fong. Please leave your name, number and a brief message and i will return your call as soon as possible. Thank you.
+<Say voice="alice" language="en-CA">
+this is Anna Fong. Please leave your name, number and a brief message and i will return your call as soon as possible. Thank you.
 </Say>
-<Record finishOnKey="*" maxLength="40" method="GET" action="http://zeddcall.appspot.com/MailPeter"/>
-<Say>I did not receive a recording</Say>
+<Record finishOnKey="*" maxLength="60" method="GET" action="http://zeddcall.appspot.com/MailPeter"/>
+
 </Response>
